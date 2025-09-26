@@ -1,0 +1,36 @@
+#img{
+    height: 400px;
+    border: 10px solid rgb(239, 142, 142);
+}
+#button{
+    height: 30px;
+    width: 200px;
+    background-color: aqua;
+    margin-left: 140PX;
+}
+#song{
+    border: 10px solid rgb(239, 142, 142);
+ height: 300px;
+    width: 400px;
+    background-color: aqua;
+    margin-left: 600px;
+    margin-top: -470px;
+    margin-right: 400px;
+}
+h1{
+    flex: auto;
+    color: rgb(15, 3, 3);
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+marquee{
+    width: 1500px;
+    height: auto;
+     scroll-behavior: smooth;
+}
+#rendosong{
+    margin-left: 720px;
+     height: 30px;
+    width: 200px;
+    background-color: aqua;
+}
